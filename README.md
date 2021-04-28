@@ -1,4 +1,4 @@
-# Exploratary-Data-Analysis---Tennis-Match-Dataset
+# Exploratary Data Analysis - Tennis Match Dataset
 
 The goal of this project is to analyze the dataset of a tennis match (Wimbledon finals 2019, Djokovic - Federer), as well as to dive deeper into Exploratary data analysis (EDA).
 
@@ -7,6 +7,9 @@ This project was organized by **Foundley**, an organization with the goal of hel
 I am very thankful for the opportunity to work on such project, especially for the opportunity to discuss various approaches and techniques with someone who is proficient in the field.
 
 ## About the project 
+
+The idea of the project was to perform EDA, which is a crucial step in getting familiar with your data. All 3 of us, Mihailo, Branko and me, explored different aspects of dataset.
+Dataset is available for download, under the name **03_tennisai_data.csv**. Column description is available in the file called **03_tennisai_data - data dict.txt**. 
 
 
 
